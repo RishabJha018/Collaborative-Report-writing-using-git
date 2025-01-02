@@ -77,6 +77,4 @@ Use CI tools like GitHub Actions to automatically format or spell-check the repo
 Once all sections are complete and reviewed, merge into the main branch.
 Optionally, tag the release:
 bash
-Copy code
-git tag -a v1.0 -m "Final version of the report"
-git push origin v1.0
+
